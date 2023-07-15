@@ -1,2 +1,2 @@
-# My-fiest-Program
+# My-first-Program
 starting with basic coding
